@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: rabbitmq-study
+    port: 5672
+    username: guest
+    password: guest
+    publisher-confirm-type: correlated
+
